@@ -19,7 +19,11 @@ __GUI依赖库__
  numpy  
  pillow__
 
-## 2.2 微信小程序安装 
+## 2.2 模型pb文件下载  
+pb文件路径[https://pan.baidu.com/s/1VKiKLMr3CqiLxURxq_stDw](https://pan.baidu.com/s/1VKiKLMr3CqiLxURxq_stDw)  
+pb文件存放路径：[./PC/data/twostepclassify](./PC/data/twostepclassify)
+ 
+## 2.3 微信小程序安装 
 由于微信小程序现在是demo版本，很多功能都未完善，并且还未对外开放，因此需要安装开发环境，在测试版本下调用。
 ### __服务端依赖库__  
  >__tensorflow(>1.4.0)  
@@ -29,12 +33,12 @@ __GUI依赖库__
  flask__  
 
 ### __应用端小程序开发环境安装__  
-#### 2.2.1 [微信公众平台](https://mp.weixin.qq.com/)注册个人微信小程序公众号；  
-#### 2.2.2 下载微信小程序开发工具;  
-#### 2.2.3 在公众平台中获取个人APPID,如下图：  
+#### 2.3.1 [微信公众平台](https://mp.weixin.qq.com/)注册个人微信小程序公众号；  
+#### 2.3.2 下载微信小程序开发工具;  
+#### 2.3.3 在公众平台中获取个人APPID,如下图：  
 ![appid.jpg](./g3doc/images/appid.jpg)
 
-#### 2.2.4 修改'WX/project.config.json'中的APPID为上一步中获取到的值  
+#### 2.3.4 修改'WX/project.config.json'中的APPID为上一步中获取到的值  
 ![appid_m.jpg](./g3doc/images/appid_m.jpg)  
 
 &nbsp;
