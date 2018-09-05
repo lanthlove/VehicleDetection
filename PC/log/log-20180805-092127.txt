@@ -1,0 +1,2 @@
+08/05/2018 09:21:31 AM DEBUG vehicle_detector.py 147 27556 Load detection pb success
+08/05/2018 09:21:35 AM DEBUG vehicle_detector.py 181 27556 Load classification pb success

@@ -1,0 +1,16 @@
+<!--index.wxml-->
+
+<view class="page-index">
+  <view class='dailyshow'>
+    <image class='carview' src="../../images/vehicle.jpg" bindtap="bindViewTap" mode="widthFix"></image>
+    <view class='cardaily'>每日一车·帕加尼 Zonda R</view>
+    <view class= 'carcaption'>帕加尼Zonda R是一款高性能超级跑车，2007年在日内瓦车展首次亮相，搭载来自梅赛德斯-奔驰CLK-GTR赛车的6.0L V12自然吸气引擎。经重新调校及改造后，可输出最大功率750马力/7,500rpm，扭矩峰值710Nm。Zonda R的官方售价为146万欧元（含税）。
+    </view>
+  </view>
+
+  <view class='button-area'>
+    <button class='camera-btn' type="primary" bindtap="chooseImage" data-way="camera">打开相机</button>
+    <button class='camera-btn' type='primary' bindtap="chooseImage" data-way="album">从相册导入</button>
+  </view>
+</view>
+

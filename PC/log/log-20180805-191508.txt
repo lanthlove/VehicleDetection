@@ -1,0 +1,3 @@
+08/05/2018 19:15:12 PM DEBUG vehicle_detector.py 148 15720 Load detection pb success
+08/05/2018 19:15:15 PM DEBUG vehicle_detector.py 183 15720 Load classification pb success
+08/05/2018 19:15:16 PM INFO _internal.py 88 15720  * Restarting with stat

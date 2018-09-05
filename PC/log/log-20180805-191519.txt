@@ -1,0 +1,5 @@
+08/05/2018 19:15:22 PM DEBUG vehicle_detector.py 148 9052 Load detection pb success
+08/05/2018 19:15:24 PM DEBUG vehicle_detector.py 183 9052 Load classification pb success
+08/05/2018 19:15:24 PM WARNING _internal.py 88 9052  * Debugger is active!
+08/05/2018 19:15:24 PM INFO _internal.py 88 9052  * Debugger PIN: 233-772-742
+08/05/2018 19:15:24 PM INFO _internal.py 88 9052  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)

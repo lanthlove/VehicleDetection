@@ -1,0 +1,21 @@
+/* pages/result.wxss */
+
+.result{
+  display: flex;
+  border: 4rpx double #eee;
+  flex-direction: column;
+  margin: 10rpx;
+  justify-content: center;
+  align-items: center;
+}
+
+.text{
+  font-size: 18px;
+  margin-left: 20rpx;
+  color:#555;
+}
+
+.carview {
+  margin: 10rpx;
+  width:95%;
+}

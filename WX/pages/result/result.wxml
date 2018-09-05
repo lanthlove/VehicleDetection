@@ -1,0 +1,9 @@
+<!--pages/result.wxml-->
+<view class="page-result">
+  <view class="result">
+    <image class='carview' src="{{imgResult}}" mode="widthFix"></image>
+  </view>
+  <view class='text'>{{result_name}}</view>
+  <view class='text'>{{result_prob}}</view>
+</view>
+
