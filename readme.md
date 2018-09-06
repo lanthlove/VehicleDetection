@@ -24,7 +24,7 @@ pb文件路径[https://pan.baidu.com/s/1VKiKLMr3CqiLxURxq_stDw](https://pan.baid
 pb文件存放路径：[./PC/data/twostepclassify](./PC/data/twostepclassify)
  
 ## 2.3 微信小程序安装 
-由于微信小程序现在是demo版本，很多功能都未完善，并且还未对外开放，因此需要安装开发环境，在测试版本下调用。
+由于微信小程序未能进行公网测试，没有对外开放，因此需要安装开发环境，在测试版本下调用。
 ### __服务端依赖库__  
  >__tensorflow(>1.4.0)  
  pyqt5  
